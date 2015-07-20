@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabSplitter", "TabSplitter\TabSplitter.csproj", "{BDAB11DD-B386-4DE4-B89A-EA4CEEB3DC46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabSplitter.UnitTest", "TabSplitter.UnitTest\TabSplitter.UnitTest.csproj", "{AE77334D-5A8C-4EF6-B6FE-F8510D87D1F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabSplitter.UnitTests", "TabSplitter.UnitTests\TabSplitter.UnitTests.csproj", "{195CF3AA-DF0D-47BE-B518-ACD1636204FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDAB11DD-B386-4DE4-B89A-EA4CEEB3DC46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDAB11DD-B386-4DE4-B89A-EA4CEEB3DC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDAB11DD-B386-4DE4-B89A-EA4CEEB3DC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDAB11DD-B386-4DE4-B89A-EA4CEEB3DC46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE77334D-5A8C-4EF6-B6FE-F8510D87D1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE77334D-5A8C-4EF6-B6FE-F8510D87D1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE77334D-5A8C-4EF6-B6FE-F8510D87D1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE77334D-5A8C-4EF6-B6FE-F8510D87D1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{195CF3AA-DF0D-47BE-B518-ACD1636204FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{195CF3AA-DF0D-47BE-B518-ACD1636204FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{195CF3AA-DF0D-47BE-B518-ACD1636204FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{195CF3AA-DF0D-47BE-B518-ACD1636204FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
